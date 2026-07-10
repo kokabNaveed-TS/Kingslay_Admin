@@ -16,4 +16,6 @@ module.exports = [
   { id: 15, name: "Marketing" },
   { id: 16, name: "Alerts / Notifications" },
   { id: 17, name: "Knowledge Base" },
+  { id: 101, name: "Online Ordering" },
+  { id: 102, name: "Invoicing Management" },
 ];
